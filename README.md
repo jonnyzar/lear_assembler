@@ -1,4 +1,3 @@
-# lear_assembler
-dump for assembler learning
+Mobbus client implementation on top of TCP based on scapy.
 
-source: http://stolyarov.info/books/programming_intro/vol2
+It allows controlling single packets.
